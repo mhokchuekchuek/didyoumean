@@ -1,0 +1,2 @@
+pythainlp==4.0.2
+numpy==1.26.3
