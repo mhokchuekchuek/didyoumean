@@ -10,7 +10,7 @@ def read_requirements(path: str) -> list:
 
 base_requirements = read_requirements("requirements.txt")
 
-with open("readme.md", "r") as readme_file:
+with open("README.md", "r") as readme_file:
     long_description = readme_file.read()
 
 setup(
