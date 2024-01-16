@@ -32,3 +32,6 @@ spell_checker.correct("กฏหมาย")
 ## response
 'กฎหมาย'
 ```
+### Colab's Example
+
+https://colab.research.google.com/drive/1yDWQT1eFxaADrionZNlwgU1nfur6garp?usp=sharing
